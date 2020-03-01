@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/pantech/ef52/proprietary/vendor/lib/hw/sensors.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.msm8960.so \
     vendor/pantech/ef52/proprietary/vendor/lib/hw/sensors_native_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors_native_hal.so \
     vendor/pantech/ef52/proprietary/vendor/lib/hw/sensors_qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors_qcom.so \
-    vendor/pantech/ef52/proprietary/vendor/lib/hw/lights.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/lights.msm8960.so \
 
 PRODUCT_COPY_FILES += \
     vendor/pantech/ef52/proprietary/vendor/etc/firmware/cyttsp_8064_mtp.hex:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/cyttsp_8064_mtp.hex \
